@@ -5,6 +5,11 @@ teamsid-always-show-copy-button.user.js
 
 Always show "Copy" button of [TeamsID](https://www.teamsid.com/) fields.
 
+Developed / confirmed in the following environment:
+
+* Mozilla firefox 89.0.2
+* Greasemonkey 4.11
+
 
 ## License?
 
